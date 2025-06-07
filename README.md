@@ -1,7 +1,7 @@
 # CHD-machine_learning_code
 The main function of this code is to predict CHD through multiple machine learning.
 ## Code Description
-The CHD dataset nees to be downloaded at *****
+The CHD dataset is the CHD_dataset file.
 
 ## running code
 ### Prediction using logistic regression algorithm
